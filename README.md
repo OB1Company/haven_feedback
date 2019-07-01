@@ -12,6 +12,7 @@ This is an unordered roadmap of future features of Haven. This list is subject t
 - [ ] **Social notifications.** In app and native
 - [ ] **Order discussion notifications.** Receive notifications for order messages
 - [ ] **Preferences.** Ability to toggle specific notifications on/off
+- [ ] **Refund notificiations.** Notification for successfully canceled order & coins returning to internal wallet (especially for external wallet purchases)
 
 ### Chat
 - [ ] **Improve reliability.** Fix problems with missing or out of order messages
