@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/3887694/60404120-e6e50f00-9be8-11e9-8274-fd3c133d7bdd.png)
+
 # Haven feedback
 Collection point for bug reporting and feature requests
 
